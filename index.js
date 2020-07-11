@@ -7,6 +7,9 @@ let app = express();
 
 const PORT = process.env.PORT || 80;
 
+//if your cuntry in Russia, on 1xStavka
+//if your country Europa, on VPN 1xBet
+//Если ты в России можно через 1xStavka парсить, и отправлять через телеграмм его разрешили в России, Можно через 1xBet через VPN 
 
 
 const token = '' //add your Bot
