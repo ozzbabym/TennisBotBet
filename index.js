@@ -9,12 +9,12 @@ const PORT = process.env.PORT || 80;
 
 
 
-const token = ''
-
+const token = '' //add your Bot
+const chat = '' //add your Group ID in Tellegram 
 
 const url = 'https://ar.1xbet.com/en/live/Tennis/';
 //const url = "https://1xstavka.ru/en/live/Tennis/";
-const url1 = 'https://api.telegram.org/bot' + token + '/sendMessage?chat_id=-1001218378775&text='
+const url1 = 'https://api.telegram.org/bot' + token + '/sendMessage?chat_id='+ chat +'&text='
 const xhttp = new XMLHttpRequest()
 
 app.listen(PORT, () => {
