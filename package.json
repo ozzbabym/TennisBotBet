@@ -16,7 +16,7 @@
     "iconv-lite": "^0.4.19",
     "import": "^0.0.6",
     "inherits": "^2.0.3",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "needle": "^2.5.0",
     "node-openvpn": "^0.1.1",
     "nodemon": "^2.0.4",
